@@ -1,0 +1,3 @@
+/home/obed/opengl/Practica1/Cancha/build/CMakeFiles/rebuild_cache.dir
+/home/obed/opengl/Practica1/Cancha/build/CMakeFiles/edit_cache.dir
+/home/obed/opengl/Practica1/Cancha/build/CMakeFiles/hello.dir
